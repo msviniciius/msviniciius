@@ -1,7 +1,7 @@
 ### Olá! sou a Marcos Vinicius, desenvolvedor Ruby on Rails 💻
 
   - 🖥 Hoje trabalho com Back/Front-end
-  - 📝Estudando React/Bootstrap - Heroku/AWS - Teste Automatizados
+  - 📝Estudando React - Heroku/AWS - Teste Automatizados
  
 <div align="center">
   <a href="https://github.com/msviniciius">
